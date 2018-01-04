@@ -1,5 +1,3 @@
-/* Copyright 2016 Jack Henry Software */
-
 package webSocketServer;
 
 import java.io.DataInputStream;
